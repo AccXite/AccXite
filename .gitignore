@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+private/
+resources/
+app/
+./package.json
+package.json
+./main.js
+main.js
+package-lock.json
+./package-lock.json
+GA_FrontEnd_Electron.code-workspace
+package_json_npm_update.bat
